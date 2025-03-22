@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Choudhury</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh1998choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh1998choudhury" /> </p>
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/8rajesh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8rajesh16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajesh choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh choudhury" height="30" width="40" /></a>
-<a href="https://fb.com/rajesh choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajesh choudhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajesh-choudhury-6071431ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-choudhury-6071431ab" height="30" width="40" /></a>
+<a href="https://fb.com/100008811063158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008811063158" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_rajesh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_rajesh16" height="30" width="40" /></a>
 </p>
 
