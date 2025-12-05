@@ -127,7 +127,6 @@ From scribbles on paper to polished apps with:
 <a href="https://linkedin.com/in/rajesh-choudhury-6071431ab/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
 </a>
-</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/i_m_rajesh16">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48" alt="Instagram"/>
@@ -137,6 +136,14 @@ From scribbles on paper to polished apps with:
   <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="48" height="48" alt="Medium"/>
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://rajesh1998choudhury.github.io/my_portfolio/">
+  <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Click_Here-brightgreen?style=for-the-badge" alt="Live Portfolio"/>
+</a>
 </div>
 
 ---
