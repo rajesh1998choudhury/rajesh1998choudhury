@@ -132,7 +132,10 @@ From scribbles on paper to polished apps with:
 <a href="https://instagram.com/i_m_rajesh16">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48" alt="Instagram"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@rajeshchoudhury098">
+  <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="48" height="48" alt="Medium"/>
+</a>
 
 </div>
 
