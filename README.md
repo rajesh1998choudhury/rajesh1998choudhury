@@ -117,20 +117,22 @@ From scribbles on paper to polished apps with:
 <div align="center">
 
 <a href="mailto:rajeshchoudhury098@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rajeshchoudhury098%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" alt="Email"/>
 </a>
-
-<br/><br/>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/8rajesh16">
-  <img src="https://img.shields.io/badge/Twitter-%408rajesh16-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.icons8.com/color/48/000000/twitter.png" width="48" height="48" alt="Twitter"/>
 </a>
-
-<br/><br/>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rajesh-choudhury-6071431ab">
-  <img src="https://img.shields.io/badge/LinkedIn-rajesh--choudhury--6071431ab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
 </a>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/i_m_rajesh16">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48" alt="Instagram"/>
+</a>
+
 
 </div>
 
