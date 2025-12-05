@@ -124,7 +124,7 @@ From scribbles on paper to polished apps with:
   <img src="https://img.icons8.com/color/48/000000/twitter.png" width="48" height="48" alt="Twitter"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/rajesh-choudhury-6071431ab">
+<a href="https://linkedin.com/in/rajesh-choudhury-6071431ab/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
 </a>
 </a>
