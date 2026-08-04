@@ -1,0 +1,28 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <rect width="495" height="195" rx="10" fill="#0b132b"/>
+  <text x="50%" y="45" text-anchor="middle" fill="#6fffe9" font-family="monospace" font-size="16" font-weight="bold">rajesh1998choudhury's Streak Stats</text>
+
+  <g>
+    <text x="90" y="95" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="28" font-weight="bold">--</text>
+    <text x="90" y="120" text-anchor="middle" fill="#8892b0" font-family="monospace" font-size="12">Total Contributions</text>
+  </g>
+
+  <line x1="180" y1="60" x2="180" y2="150" stroke="#1c2541" stroke-width="1"/>
+
+  <g>
+    <circle cx="247" cy="95" r="38" fill="none" stroke="#1c2541" stroke-width="4"/>
+    <circle cx="247" cy="95" r="38" fill="none" stroke="#6fffe9" stroke-width="4" stroke-dasharray="40 200"/>
+    <text x="247" y="90" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="24" font-weight="bold">--</text>
+    <text x="247" y="108" text-anchor="middle" fill="#6fffe9" font-family="monospace" font-size="10">🔥</text>
+    <text x="247" y="150" text-anchor="middle" fill="#8892b0" font-family="monospace" font-size="12">Current Streak</text>
+  </g>
+
+  <line x1="315" y1="60" x2="315" y2="150" stroke="#1c2541" stroke-width="1"/>
+
+  <g>
+    <text x="405" y="95" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="28" font-weight="bold">--</text>
+    <text x="405" y="120" text-anchor="middle" fill="#8892b0" font-family="monospace" font-size="12">Longest Streak</text>
+  </g>
+
+  <text x="50%" y="180" text-anchor="middle" fill="#8892b0" font-family="monospace" font-size="10">placeholder — auto-replaced by GitHub Actions</text>
+</svg>
