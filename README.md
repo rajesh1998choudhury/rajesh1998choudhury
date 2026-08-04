@@ -148,16 +148,16 @@ Personal showcase & case studies
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajesh1998choudhury&show_icons=true&hide_border=true&bg_color=0b132b&title_color=6fffe9&icon_color=6fffe9&text_color=e0e0e0&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh1998choudhury&layout=compact&hide_border=true&bg_color=0b132b&title_color=6fffe9&text_color=e0e0e0&border_radius=10"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajesh1998choudhury&show_icons=true&hide_border=true&bg_color=0b132b&title_color=6fffe9&icon_color=6fffe9&text_color=e0e0e0&border_radius=10"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajesh1998choudhury&layout=compact&hide_border=true&bg_color=0b132b&title_color=6fffe9&text_color=e0e0e0&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh1998choudhury&hide_border=true&background=0b132b&stroke=6fffe9&ring=6fffe9&fire=6fffe9&currStreakLabel=6fffe9&sideNums=e0e0e0&sideLabels=e0e0e0&dates=8892b0&border_radius=10"/>
+<img src="https://raw.githubusercontent.com/rajesh1998choudhury/rajesh1998choudhury/main/profile/streak-dark.svg"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajesh1998choudhury&no-frame=true&column=6&theme=algolia&row=1"/>
+<img src="https://raw.githubusercontent.com/rajesh1998choudhury/rajesh1998choudhury/main/profile/trophy.svg"/>
 
 </div>
 
