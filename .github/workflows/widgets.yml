@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate streak stats SVG
         uses: be-next/github-streak-stats-action@v1
@@ -27,8 +27,9 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          no-frame: true
 
       - name: Commit generated widgets
         run: |
