@@ -26,7 +26,7 @@ jobs:
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: ${{ rajesh199816choudhury }}
+          username: ${{ rajesh1998choudhury }}
           file: profile/trophy.svg
           token: ${{ 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 }}
           no-frame: true
