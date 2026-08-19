@@ -157,7 +157,7 @@ Personal showcase & case studies
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rajesh1998choudhury/rajesh1998choudhury/main/profile/trophy.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajesh1998choudhury&theme=darkhub&no-frame=true&column=7"/>
 
 </div>
 
