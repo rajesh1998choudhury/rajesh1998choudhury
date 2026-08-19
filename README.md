@@ -153,7 +153,7 @@ Personal showcase & case studies
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rajesh1998choudhury/rajesh1998choudhury/main/profile/streak-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=rajesh1998choudhury&theme=dark&hide_border=true&background=0b132b&stroke=6fffe9&ring=6fffe9&fire=6fffe9&currStreakLabel=6fffe9"/>
 
 <br/><br/>
 
